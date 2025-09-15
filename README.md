@@ -14,5 +14,5 @@ Located in: /Design
 Located in: /src:
 
 # Demo
-![App Demo](Design/demo.gif)
+![App Demo](https://github.com/Elaa-16/Internship-project/raw/main/Design/demo.gif)
 

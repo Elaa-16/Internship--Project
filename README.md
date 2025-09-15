@@ -14,5 +14,6 @@ Located in: /Design
 Located in: /src:
 
 # Demo:
-Located in: /Design/demo.gif
+![App Demo] 
+Located in: /Design
 

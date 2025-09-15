@@ -14,6 +14,6 @@ Located in: /Design
 Located in: /src:
 
 # Demo:
-![App Demo] 
+![App Demo] (
 Located in: /Design
 
